@@ -6,7 +6,7 @@
 import javax.swing.JOptionPane;
  
  
-public class Main {
+public class DialogBoxExercise.java {
  
   public static void main(String[] args) {
  		
